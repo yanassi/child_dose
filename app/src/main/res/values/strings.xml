@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">小児薬量換算</string>
+    <string name="dialog_title">エラー</string>
+    <string name="dialog_msg">身長と体重の数値を入力してください\nまたは「身長及び体重不明」にチェックを入れてください</string>
+    <string name="dialog2_msg">年齢の数値を入力してください</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="Toast_msg">数値が入力されていません</string>
+    <string name="max">最大値</string>
+    <string name="min">最小値</string>
+    <string name="introduction">患者情報の入力</string>
+    <string name="calculate">小児量へ換算</string>
+    <string name="check">年齢だけで計算する</string>
+    <string name="age">年齢：</string>
+    <string name="age_unit">歳</string>
+    <string name="height">身長：</string>
+    <string name="height_unit">cm</string>
+    <string name="weight">体重：</string>
+    <string name="weight_unit">kg</string>
+    <string name="for_calculate">計算へ</string>
+    <string name="adult">成人量</string>
+    <string name="child">小児量</string>
+    <string name="dose_unit">mg</string>
+    <string name="range">〜</string>
+    <string name="unnecessary">ー</string>
+
+</resources>
